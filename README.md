@@ -2,7 +2,7 @@
   <h1> Привет всем 👋</h1>
 </div>
 
-### 👨‍💻 Обо мне :
+👨‍💻 Обо мне :
 Я начинающий Frontend Developer из России.
 
 - 📈 Хочу рости и развиваться с командой опытных коллег.
@@ -13,7 +13,7 @@
 
 - 🥳 Хочу больше приобщиться к It-комьюнити
 
-  <h2> 🛠 Мой стэк :</h2>
+🛠 Мой стэк :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
