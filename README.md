@@ -26,6 +26,11 @@
 </div>
 
 
+### :fire: Моя статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trekit1&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 
 
